@@ -1,3 +1,9 @@
+/**
+* @file wc.c
+* @brief A binary file to a piece of software. Not sure what it is. Doesn't matter.
+* @author University of California
+*/
+
 /*
  * Copyright (c) 1980, 1987, 1991, 1993
  *	The Regents of the University of California.  All rights reserved.
